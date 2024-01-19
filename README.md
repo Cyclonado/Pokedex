@@ -1,0 +1,2 @@
+# Pokedex
+Dinamic Pokedex project.
